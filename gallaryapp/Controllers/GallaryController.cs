@@ -12,5 +12,9 @@ namespace GallaryApp.Controllers
         {
             return View();
         }
+        public IActionResult Gallay()
+        {
+            return View();
+        }
     }
 }
