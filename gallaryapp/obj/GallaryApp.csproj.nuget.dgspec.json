@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hxtreme\\source\\repos\\GallaryApp\\GallaryApp\\GallaryApp.csproj": {}
+    "D:\\Users\\Vasuki\\Myprojects\\GallaryApp\\GallaryApp\\GallaryApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hxtreme\\source\\repos\\GallaryApp\\GallaryApp\\GallaryApp.csproj": {
+    "D:\\Users\\Vasuki\\Myprojects\\GallaryApp\\GallaryApp\\GallaryApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hxtreme\\source\\repos\\GallaryApp\\GallaryApp\\GallaryApp.csproj",
+        "projectUniqueName": "D:\\Users\\Vasuki\\Myprojects\\GallaryApp\\GallaryApp\\GallaryApp.csproj",
         "projectName": "GallaryApp",
-        "projectPath": "C:\\Users\\Hxtreme\\source\\repos\\GallaryApp\\GallaryApp\\GallaryApp.csproj",
+        "projectPath": "D:\\Users\\Vasuki\\Myprojects\\GallaryApp\\GallaryApp\\GallaryApp.csproj",
         "packagesPath": "C:\\Users\\Hxtreme\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hxtreme\\source\\repos\\GallaryApp\\GallaryApp\\obj\\",
+        "outputPath": "D:\\Users\\Vasuki\\Myprojects\\GallaryApp\\GallaryApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hxtreme\\AppData\\Roaming\\NuGet\\NuGet.Config",
